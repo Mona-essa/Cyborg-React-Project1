@@ -1,0 +1,10 @@
+
+.most-popular{
+    width: 100%;
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+    
+    flex-wrap: wrap;
+   
+}

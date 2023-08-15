@@ -1,0 +1,27 @@
+.card{
+    background-color:#27292A;
+    
+    margin-top:15px;
+    margin-right: 15px;
+   
+}
+.most-popular img{
+    width:100%;
+    margin-bottom: 5px;
+}
+.card-wrapper{
+    
+    padding:10px;
+    
+}
+.card-wrapper .card-info span{
+    opacity: .5;
+}
+.card-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-info ul{
+   float: right;
+}

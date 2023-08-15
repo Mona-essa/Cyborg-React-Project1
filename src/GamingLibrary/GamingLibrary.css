@@ -1,0 +1,9 @@
+.gaming-library{
+    display: flex;
+   flex-wrap: wrap;
+   margin-top:50px;
+}
+.section-wrapper{
+    background-color: #1F2122;
+    padding:10px;
+}
