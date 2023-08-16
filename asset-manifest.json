@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cyborg-React-Project1/static/css/main.cb8fb0d3.css",
-    "main.js": "/Cyborg-React-Project1/static/js/main.3e440dde.js",
+    "main.js": "/Cyborg-React-Project1/static/js/main.b31eda66.js",
     "static/js/787.bd3cb99f.chunk.js": "/Cyborg-React-Project1/static/js/787.bd3cb99f.chunk.js",
     "static/media/banner-bg.jpg": "/Cyborg-React-Project1/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/Cyborg-React-Project1/static/media/popular-05.fb754b91636cbce130d6.jpg",
@@ -14,11 +14,11 @@
     "static/media/popular-03.jpg": "/Cyborg-React-Project1/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/Cyborg-React-Project1/index.html",
     "main.cb8fb0d3.css.map": "/Cyborg-React-Project1/static/css/main.cb8fb0d3.css.map",
-    "main.3e440dde.js.map": "/Cyborg-React-Project1/static/js/main.3e440dde.js.map",
+    "main.b31eda66.js.map": "/Cyborg-React-Project1/static/js/main.b31eda66.js.map",
     "787.bd3cb99f.chunk.js.map": "/Cyborg-React-Project1/static/js/787.bd3cb99f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb8fb0d3.css",
-    "static/js/main.3e440dde.js"
+    "static/js/main.b31eda66.js"
   ]
 }
