@@ -15,10 +15,10 @@ const App = () => {
 
     <Header />
     <Container >
-        <Home />
-      <Routes>
-        
-        <Route path='/GamingLibrary' element={GamingLibrary /}/>
+      <Routes basename="/Cyborg-React-Project1">
+        <Route path='/Home' element={<Home/>}/>
+       <Route path='/MostPopular' element={<MostPopular />}/>
+        <Route path='/GamingLibrary' element={<GamingLibrary />}/>
      </Routes>
 
      </Container>
