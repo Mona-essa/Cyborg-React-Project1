@@ -18,7 +18,7 @@ const App = () => {
         <Home />
       <Routes>
         
-        <Route path='/GamingLibrary' element={<GamingLibrary />}/>
+        <Route path='/GamingLibrary' element={GamingLibrary /}/>
      </Routes>
 
      </Container>
